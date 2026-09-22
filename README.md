@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Teuku Raja Muda Alfarizi! 👋
 
-<!--
-**Teukuraja/Teukuraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer & Data Analyst graduate with a strong passion for building responsive web applications and data modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Frontend & Web:** React.js, Next.js, Tailwind CSS, JavaScript, TypeScript
+- **Backend & Database:** Node.js, Python, PL/SQL, RESTful API
+- **Tools & Environments:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teukuraja&show_icons=true&theme=tokyonight)
+
+---
+
+### 📬 Connect with Me
+- 💼 **LinkedIn:** [Teuku Raja Muda Alfarizi](https://www.linkedin.com/in/t-raja-muda-alfarizi-181aab1b7/)
+- 📧 **Email:** [teuku1923@gmail.com](mailto:teuku1923@gmail.com)
+- 💬 **WhatsApp:** [+62 823-5019-1117](https://wa.me/6282350191117)
+- 📷 **Instagram:** [@t_r_a_.j_a](https://www.instagram.com/t_r_a_.j_a)
