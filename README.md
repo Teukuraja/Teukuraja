@@ -9,12 +9,7 @@ Junior Web Developer & Data Analyst graduate with a strong passion for building 
 - **Backend & Database:** Node.js, Python, PL/SQL, RESTful API
 - **Tools & Environments:** Git, GitHub, VS Code
 
----
 
-### 📊 GitHub Stats
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teukuraja&show_icons=true&theme=tokyonight)
-
----
 
 ### 📬 Connect with Me
 - 💼 **LinkedIn:** [Teuku Raja Muda Alfarizi](https://www.linkedin.com/in/t-raja-muda-alfarizi-181aab1b7/)
